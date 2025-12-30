@@ -1,0 +1,3 @@
+nltk 
+Scikit-learn
+Streamlit
